@@ -2,8 +2,7 @@
 
 A complete multi-page university website project using HTML5, CSS3, Bootstrap 5 and JavaScript. 
 The information architecture is inspired by the way modern Indian university websites organize 
-Academics, Admissions, Campus Life, About, Gallery and Contact content. It is an original fictional 
-project and is not an official Marwadi University website.
+Academics, Admissions, Campus Life, About, Gallery and Contact content.
 
 ## Pages
 - index.html - Home
