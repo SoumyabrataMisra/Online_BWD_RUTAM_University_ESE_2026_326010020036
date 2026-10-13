@@ -25,4 +25,4 @@ HTML5, CSS3, Bootstrap 5.3, JavaScript.
 - Replace sample contact information before real-world use.
 - The forms are front-end demos and do not send email without a server/backend.
 - The photos are real Unsplash images. See images/README.txt for sources and replace them with your own 
-licensed institutional photos when deploying commercially.
+licensed institutional photos when deploying commercially. 
